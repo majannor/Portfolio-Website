@@ -1,4 +1,4 @@
-# portofolio
+# Portofolio
 
 
 <h1 align="center">Client/Server with FastAPI and React</h1>
